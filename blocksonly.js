@@ -20,7 +20,7 @@ var _appStateHoc = __webpack_require__(28);
 
 var _appStateHoc2 = _interopRequireDefault(_appStateHoc);
 
-var _controls = __webpack_require__(38);
+var _controls = __webpack_require__(37);
 
 var _controls2 = _interopRequireDefault(_controls);
 
@@ -32,7 +32,7 @@ var _gui = __webpack_require__(31);
 
 var _gui2 = _interopRequireDefault(_gui);
 
-var _projectLoaderHoc = __webpack_require__(39);
+var _projectLoaderHoc = __webpack_require__(38);
 
 var _projectLoaderHoc2 = _interopRequireDefault(_projectLoaderHoc);
 

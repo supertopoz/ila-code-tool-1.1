@@ -1,6 +1,6 @@
 webpackJsonp([2],{
 
-/***/ 581:
+/***/ 571:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -14,7 +14,7 @@ var _reactDom = __webpack_require__(15);
 
 var _reactDom2 = _interopRequireDefault(_reactDom);
 
-var _reactRedux = __webpack_require__(6);
+var _reactRedux = __webpack_require__(7);
 
 var _appStateHoc = __webpack_require__(29);
 
@@ -24,7 +24,7 @@ var _controls = __webpack_require__(38);
 
 var _controls2 = _interopRequireDefault(_controls);
 
-var _blocks = __webpack_require__(117);
+var _blocks = __webpack_require__(115);
 
 var _blocks2 = _interopRequireDefault(_blocks);
 
@@ -36,7 +36,7 @@ var _projectLoaderHoc = __webpack_require__(39);
 
 var _projectLoaderHoc2 = _interopRequireDefault(_projectLoaderHoc);
 
-var _blocksOnly = __webpack_require__(582);
+var _blocksOnly = __webpack_require__(572);
 
 var _blocksOnly2 = _interopRequireDefault(_blocksOnly);
 
@@ -72,11 +72,11 @@ _reactDom2.default.render(_react2.default.createElement(App, null), appTarget);
 
 /***/ }),
 
-/***/ 582:
+/***/ 572:
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(583);
+var content = __webpack_require__(573);
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -123,7 +123,7 @@ if(false) {
 
 /***/ }),
 
-/***/ 583:
+/***/ 573:
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__(2)(false);
@@ -140,5 +140,5 @@ exports.locals = {
 
 /***/ })
 
-},[581]);
+},[571]);
 //# sourceMappingURL=blocksonly.js.map

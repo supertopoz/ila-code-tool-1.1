@@ -1,6 +1,6 @@
 webpackJsonp([1],{
 
-/***/ 585:
+/***/ 575:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -18,7 +18,7 @@ var _reactDom = __webpack_require__(15);
 
 var _reactDom2 = _interopRequireDefault(_reactDom);
 
-var _reactRedux = __webpack_require__(6);
+var _reactRedux = __webpack_require__(7);
 
 var _appStateHoc = __webpack_require__(29);
 
@@ -28,11 +28,11 @@ var _controls = __webpack_require__(38);
 
 var _controls2 = _interopRequireDefault(_controls);
 
-var _stage = __webpack_require__(66);
+var _stage = __webpack_require__(64);
 
 var _stage2 = _interopRequireDefault(_stage);
 
-var _box = __webpack_require__(7);
+var _box = __webpack_require__(6);
 
 var _box2 = _interopRequireDefault(_box);
 
@@ -44,7 +44,7 @@ var _projectLoaderHoc = __webpack_require__(39);
 
 var _projectLoaderHoc2 = _interopRequireDefault(_projectLoaderHoc);
 
-__webpack_require__(586);
+__webpack_require__(576);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -144,11 +144,11 @@ _reactDom2.default.render(_react2.default.createElement(App, null), appTarget);
 
 /***/ }),
 
-/***/ 586:
+/***/ 576:
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(587);
+var content = __webpack_require__(577);
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -195,7 +195,7 @@ if(false) {
 
 /***/ }),
 
-/***/ 587:
+/***/ 577:
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__(2)(false);
@@ -210,5 +210,5 @@ exports.push([module.i, "body {\r\n    padding: 0;\r\n    margin: 0;\r\n}\r\n", 
 
 /***/ })
 
-},[585]);
+},[575]);
 //# sourceMappingURL=player.js.map

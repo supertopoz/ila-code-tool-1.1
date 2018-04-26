@@ -1,6 +1,6 @@
 webpackJsonp([1],{
 
-/***/ 577:
+/***/ 541:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -14,21 +14,21 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _reactDom = __webpack_require__(15);
+var _reactDom = __webpack_require__(13);
 
 var _reactDom2 = _interopRequireDefault(_reactDom);
 
 var _reactRedux = __webpack_require__(7);
 
-var _appStateHoc = __webpack_require__(28);
+var _appStateHoc = __webpack_require__(25);
 
 var _appStateHoc2 = _interopRequireDefault(_appStateHoc);
 
-var _controls = __webpack_require__(37);
+var _controls = __webpack_require__(34);
 
 var _controls2 = _interopRequireDefault(_controls);
 
-var _stage = __webpack_require__(64);
+var _stage = __webpack_require__(60);
 
 var _stage2 = _interopRequireDefault(_stage);
 
@@ -36,15 +36,15 @@ var _box = __webpack_require__(6);
 
 var _box2 = _interopRequireDefault(_box);
 
-var _gui = __webpack_require__(31);
+var _gui = __webpack_require__(28);
 
 var _gui2 = _interopRequireDefault(_gui);
 
-var _projectLoaderHoc = __webpack_require__(39);
+var _projectLoaderHoc = __webpack_require__(35);
 
 var _projectLoaderHoc2 = _interopRequireDefault(_projectLoaderHoc);
 
-__webpack_require__(578);
+__webpack_require__(542);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -144,11 +144,11 @@ _reactDom2.default.render(_react2.default.createElement(App, null), appTarget);
 
 /***/ }),
 
-/***/ 578:
+/***/ 542:
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(579);
+var content = __webpack_require__(543);
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -195,7 +195,7 @@ if(false) {
 
 /***/ }),
 
-/***/ 579:
+/***/ 543:
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__(2)(false);
@@ -210,5 +210,5 @@ exports.push([module.i, "body {\r\n    padding: 0;\r\n    margin: 0;\r\n}\r\n", 
 
 /***/ })
 
-},[577]);
+},[541]);
 //# sourceMappingURL=player.js.map
